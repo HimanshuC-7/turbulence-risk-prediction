@@ -1,2 +1,25 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Treat common data formats as binary (no diffs)
+*.csv binary
+*.parquet binary
+*.joblib binary
+*.pkl binary
+*.onnx binary
+
+# Mark images as binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+
+# Use Python-specific diff driver for .py files
+*.py diff=python
+
+# Ignore docs when exporting releases
+docs/* export-ignore
+
+# Git LFS (Large File Storage) for big data/models (optional)
+*.parquet filter=lfs diff=lfs merge=lfs
+*.joblib filter=lfs diff=lfs merge=lfs
+*.pkl filter=lfs diff=lfs merge=lfs
