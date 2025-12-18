@@ -1,0 +1,403 @@
+ID,TIME,Temp,Dew,RH,Wind,Gust,Weather,Clouds,Visibility,wind_dir_change,wind_speed_change,wind_shear_flag,low_visibility_flag,weather_flag,high_humidity_flag,micro_turbulence_flag,turbulence_proxy
+VABB,20251215 1130Z,88.0,48.0,26.0,40.0,6.0,FU,,2.48,,,False,False,True,False,False,None
+VABB,20251215 1200Z,88.0,50.0,27.0,20.0,8.0,FU,,2.48,20.0,2.0,False,False,True,False,False,None
+VABB,20251215 1230Z,86.0,50.0,29.0,20.0,7.0,FU,,2.48,0.0,1.0,False,False,True,False,False,None
+VABB,20251215 1300Z,84.0,57.0,40.0,10.0,5.0,FU,,2.48,10.0,2.0,False,False,True,False,False,None
+VABB,20251215 1330Z,84.0,57.0,40.0,360.0,6.0,FU FU,,2.17,350.0,1.0,True,False,True,False,False,None
+VABB,20251215 1400Z,82.0,55.0,40.0,10.0,5.0,FU,,1.86,350.0,1.0,True,True,True,False,False,Moderate
+VABB,20251215 1430Z,82.0,57.0,42.0,10.0,5.0,FU,,1.86,0.0,0.0,False,True,True,False,False,None
+VABB,20251215 1500Z,81.0,57.0,45.0,20.0,4.0,FU,,1.86,10.0,1.0,False,True,True,False,False,None
+VABB,20251215 1530Z,79.0,57.0,48.0,0.0,0.0,FU,,1.86,20.0,4.0,False,True,True,False,False,None
+VABB,20251215 1600Z,81.0,57.0,45.0,310.0,3.0,FU,,1.86,310.0,3.0,True,True,True,False,False,Moderate
+VABB,20251215 1630Z,81.0,57.0,45.0,180.0,3.0,FU,,1.86,130.0,0.0,True,True,True,False,False,Moderate
+VABB,20251215 1700Z,79.0,55.0,45.0,100.0,4.0,FU,,1.86,80.0,1.0,True,True,True,False,False,Moderate
+VABB,20251215 1730Z,79.0,55.0,45.0,60.0,6.0,FU,,1.86,40.0,2.0,True,True,True,False,False,Moderate
+VABB,20251215 1800Z,79.0,52.0,39.0,110.0,4.0,FU,,1.86,50.0,2.0,True,True,True,False,False,Moderate
+VABB,20251215 1830Z,77.0,54.0,44.0,80.0,4.0,FU,,1.86,30.0,0.0,False,True,True,False,False,None
+VABB,20251215 1900Z,77.0,54.0,44.0,90.0,4.0,FU,,1.86,10.0,0.0,False,True,True,False,False,None
+VABB,20251215 1930Z,77.0,54.0,44.0,90.0,5.0,FU,,1.86,0.0,1.0,False,True,True,False,False,None
+VABB,20251215 2000Z,75.0,52.0,44.0,70.0,5.0,FU,,1.86,20.0,0.0,False,True,True,False,False,None
+VABB,20251215 2030Z,77.0,52.0,41.0,70.0,6.0,FU,,1.86,0.0,1.0,False,True,True,False,False,None
+VABB,20251215 2100Z,77.0,50.0,39.0,70.0,6.0,FU,,1.86,0.0,0.0,False,True,True,False,False,None
+VABB,20251215 2130Z,77.0,48.0,36.0,70.0,6.0,FU,,1.86,0.0,0.0,False,True,True,False,False,None
+VABB,20251215 2200Z,73.0,48.0,41.0,0.0,0.0,FU,,1.86,70.0,6.0,True,True,True,False,False,Moderate
+VABB,20251215 2230Z,72.0,48.0,43.0,140.0,3.0,FU,,1.86,140.0,3.0,True,True,True,False,False,Moderate
+VABB,20251215 2300Z,75.0,48.0,38.0,150.0,6.0,FU,,1.86,10.0,3.0,False,True,True,False,False,None
+VABB,20251215 2330Z,75.0,46.0,36.0,120.0,8.0,FU,,1.86,30.0,2.0,False,True,True,False,False,None
+VABB,20251216 0000Z,73.0,48.0,41.0,100.0,8.0,FU,,1.86,20.0,0.0,False,True,True,False,False,None
+VABB,20251216 0030Z,72.0,48.0,43.0,120.0,9.0,FU,,1.86,20.0,1.0,False,True,True,False,False,None
+VABB,20251216 0100Z,73.0,48.0,41.0,110.0,9.0,FU,,1.86,10.0,0.0,False,True,True,False,False,None
+VABB,20251216 0130Z,73.0,48.0,41.0,120.0,10.0,FU,,1.55,10.0,1.0,False,True,True,False,False,None
+VABB,20251216 0200Z,72.0,48.0,43.0,120.0,10.0,FU,,1.55,0.0,0.0,False,True,True,False,False,None
+VABB,20251216 0230Z,73.0,50.0,44.0,120.0,10.0,FU,,1.55,0.0,0.0,False,True,True,False,False,None
+VABB,20251216 0300Z,75.0,50.0,41.0,120.0,10.0,FU,,1.55,0.0,0.0,False,True,True,False,False,None
+VABB,20251216 0330Z,75.0,52.0,44.0,120.0,10.0,FU,,1.55,0.0,0.0,False,True,True,False,False,None
+VABB,20251216 0400Z,77.0,52.0,41.0,120.0,11.0,FU,,1.55,0.0,1.0,False,True,True,False,False,None
+VABB,20251216 0430Z,79.0,55.0,45.0,130.0,10.0,FU,,1.55,10.0,1.0,False,True,True,False,False,None
+VABB,20251216 0500Z,82.0,52.0,35.0,120.0,10.0,FU FU,,1.55,10.0,0.0,False,True,True,False,False,None
+VABB,20251216 0530Z,84.0,50.0,31.0,130.0,11.0,FU,,1.86,10.0,1.0,False,True,True,False,False,None
+VABB,20251216 0600Z,84.0,50.0,31.0,130.0,13.0,FU,,1.86,0.0,2.0,False,True,True,False,False,None
+VABB,20251216 0630Z,86.0,52.0,31.0,130.0,12.0,FU,,1.86,0.0,1.0,False,True,True,False,False,None
+VABB,20251216 0700Z,86.0,54.0,33.0,110.0,9.0,FU,,1.86,20.0,3.0,False,True,True,False,False,None
+VABB,20251216 0730Z,88.0,54.0,31.0,120.0,10.0,FU,,1.86,10.0,1.0,False,True,True,False,False,None
+VABB,20251216 0800Z,90.0,54.0,30.0,100.0,9.0,FU,,2.17,20.0,1.0,False,False,True,False,False,None
+VABB,20251216 0830Z,90.0,50.0,26.0,130.0,9.0,FU,,2.48,30.0,0.0,False,False,True,False,False,None
+VABB,20251216 0900Z,90.0,50.0,26.0,120.0,9.0,FU,,2.48,10.0,0.0,False,False,True,False,False,None
+VABB,20251216 0930Z,90.0,50.0,26.0,140.0,9.0,FU,,2.48,20.0,0.0,False,False,True,False,False,None
+VABB,20251216 1000Z,90.0,52.0,28.0,150.0,7.0,FU,,2.48,10.0,2.0,False,False,True,False,False,None
+VABB,20251216 1030Z,90.0,52.0,28.0,120.0,4.0,FU,,2.48,30.0,3.0,False,False,True,False,False,None
+VABB,20251216 1100Z,90.0,52.0,28.0,0.0,0.0,FU,,2.48,120.0,4.0,True,False,True,False,False,None
+VABB,20251216 1130Z,88.0,61.0,40.0,290.0,7.0,FU,,2.17,290.0,7.0,True,False,True,False,False,None
+VABB,20251216 1200Z,84.0,61.0,45.0,290.0,9.0,FU,,2.17,0.0,2.0,False,False,True,False,False,None
+VABB,20251216 1230Z,82.0,64.0,55.0,290.0,8.0,FU,,2.17,0.0,1.0,False,False,True,False,False,None
+VABB,20251216 1300Z,82.0,63.0,51.0,320.0,6.0,FU FU,,2.17,30.0,2.0,False,False,True,False,False,None
+VABB,20251216 1330Z,82.0,64.0,55.0,330.0,7.0,FU,,1.86,10.0,1.0,False,True,True,False,False,None
+VABB,20251216 1400Z,81.0,66.0,62.0,340.0,6.0,FU,,1.86,10.0,1.0,False,True,True,False,False,None
+VABB,20251216 1430Z,81.0,64.0,58.0,360.0,4.0,FU,,1.86,20.0,2.0,False,True,True,False,False,None
+VABB,20251216 1500Z,81.0,61.0,51.0,360.0,6.0,FU,,1.86,0.0,2.0,False,True,True,False,False,None
+VABB,20251216 1530Z,81.0,64.0,58.0,50.0,5.0,FU,,1.86,310.0,1.0,True,True,True,False,False,Moderate
+VABB,20251216 1600Z,81.0,64.0,58.0,20.0,5.0,FU,,1.86,30.0,0.0,False,True,True,False,False,None
+VABB,20251216 1630Z,82.0,63.0,51.0,60.0,6.0,FU,,1.86,40.0,1.0,True,True,True,False,False,Moderate
+VABB,20251216 1700Z,79.0,63.0,58.0,80.0,4.0,FU,,1.86,20.0,2.0,False,True,True,False,False,None
+VABB,20251216 1730Z,79.0,61.0,54.0,60.0,4.0,FU,,1.86,20.0,0.0,False,True,True,False,False,None
+VABB,20251216 1800Z,79.0,61.0,54.0,60.0,4.0,FU,,1.86,0.0,0.0,False,True,True,False,False,None
+VABB,20251216 1830Z,81.0,59.0,48.0,60.0,7.0,FU,,1.86,0.0,3.0,False,True,True,False,False,None
+VABB,20251216 1900Z,81.0,57.0,45.0,60.0,7.0,FU,,1.86,0.0,0.0,False,True,True,False,False,None
+VABB,20251216 1930Z,79.0,57.0,48.0,50.0,6.0,FU,,1.86,10.0,1.0,False,True,True,False,False,None
+VABB,20251216 2000Z,79.0,57.0,48.0,70.0,6.0,FU,,1.86,20.0,0.0,False,True,True,False,False,None
+VABB,20251216 2030Z,77.0,57.0,50.0,150.0,3.0,FU,,1.86,80.0,3.0,True,True,True,False,False,Moderate
+VABB,20251216 2100Z,79.0,55.0,45.0,150.0,3.0,FU,,1.86,0.0,0.0,False,True,True,False,False,None
+VABB,20251216 2130Z,77.0,55.0,47.0,120.0,4.0,FU,,1.86,30.0,1.0,False,True,True,False,False,None
+VABB,20251216 2200Z,75.0,55.0,50.0,120.0,4.0,FU,,1.86,0.0,0.0,False,True,True,False,False,None
+VABB,20251216 2230Z,72.0,57.0,60.0,0.0,0.0,FU,,1.86,120.0,4.0,True,True,True,False,False,Moderate
+VABB,20251216 2300Z,75.0,55.0,50.0,180.0,3.0,FU,,1.86,180.0,3.0,True,True,True,False,False,Moderate
+VABB,20251216 2330Z,75.0,55.0,50.0,120.0,3.0,FU,,1.86,60.0,0.0,True,True,True,False,False,Moderate
+VABB,20251217 0000Z,75.0,54.0,47.0,100.0,3.0,FU,,1.86,20.0,0.0,False,True,True,False,False,None
+VABB,20251217 0030Z,77.0,54.0,44.0,80.0,6.0,FU,,1.86,20.0,3.0,False,True,True,False,False,None
+VABB,20251217 0100Z,75.0,52.0,44.0,100.0,4.0,FU,,1.86,20.0,2.0,False,True,True,False,False,None
+VABB,20251217 0130Z,77.0,52.0,41.0,140.0,4.0,FU,FEW100,1.55,40.0,0.0,True,True,True,False,False,Moderate
+VABB,20251217 0200Z,75.0,52.0,44.0,80.0,4.0,FU,FEW100,1.55,60.0,0.0,True,True,True,False,False,Moderate
+VABB,20251217 0230Z,77.0,52.0,41.0,120.0,5.0,FU,FEW100,1.55,40.0,1.0,True,True,True,False,False,Moderate
+VABB,20251217 0300Z,77.0,54.0,44.0,120.0,8.0,FU,,1.55,0.0,3.0,False,True,True,False,False,None
+VABB,20251217 0330Z,79.0,54.0,42.0,120.0,11.0,FU,,1.55,0.0,3.0,False,True,True,False,False,None
+VABB,20251217 0400Z,81.0,54.0,39.0,130.0,10.0,FU,,1.55,10.0,1.0,False,True,True,False,False,None
+VABB,20251217 0430Z,82.0,54.0,37.0,120.0,9.0,FU,,1.55,10.0,1.0,False,True,True,False,False,None
+VABB,20251217 0500Z,82.0,55.0,40.0,120.0,9.0,FU,,1.55,0.0,0.0,False,True,True,False,False,None
+VABB,20251217 0530Z,84.0,54.0,35.0,130.0,8.0,FU,,1.55,10.0,1.0,False,True,True,False,False,None
+VABB,20251217 0600Z,86.0,55.0,35.0,120.0,8.0,FU,,1.55,10.0,0.0,False,True,True,False,False,None
+VABB,20251217 0630Z,88.0,54.0,31.0,120.0,9.0,FU FU,,1.55,0.0,1.0,False,True,True,False,False,None
+VABB,20251217 0700Z,90.0,55.0,32.0,110.0,6.0,FU,,1.55,10.0,3.0,False,True,True,False,False,None
+VABB,20251217 0730Z,90.0,55.0,32.0,130.0,6.0,FU,,1.86,20.0,0.0,False,True,True,False,False,None
+VABB,20251217 0800Z,91.0,55.0,30.0,190.0,4.0,FU,,1.86,60.0,2.0,True,True,True,False,False,Moderate
+VABB,20251217 0830Z,88.0,63.0,43.0,280.0,8.0,FU,,1.86,90.0,4.0,True,True,True,False,False,Moderate
+VABB,20251217 0900Z,91.0,59.0,34.0,280.0,7.0,FU,FEW100,1.86,0.0,1.0,False,True,True,False,False,None
+VABB,20251217 0930Z,91.0,61.0,36.0,260.0,7.0,FU,,1.86,20.0,0.0,False,True,True,False,False,None
+VABB,20251217 1000Z,90.0,61.0,38.0,270.0,10.0,FU,,1.86,10.0,3.0,False,True,True,False,False,None
+VABB,20251217 1030Z,90.0,61.0,38.0,290.0,7.0,FU,,1.86,20.0,3.0,False,True,True,False,False,None
+VABB,20251217 1100Z,90.0,61.0,38.0,310.0,7.0,FU,,1.86,20.0,0.0,False,True,True,False,False,None
+VABB,20251217 1130Z,90.0,61.0,38.0,310.0,8.0,FU,,1.86,0.0,1.0,False,True,True,False,False,None
+VABB,20251217 1200Z,88.0,61.0,40.0,330.0,7.0,FU,,1.86,20.0,1.0,False,True,True,False,False,None
+VABB,20251217 1230Z,86.0,61.0,43.0,330.0,5.0,FU,,1.86,0.0,2.0,False,True,True,False,False,None
+VABB,20251217 1300Z,86.0,61.0,43.0,350.0,6.0,FU,,1.86,20.0,1.0,False,True,True,False,False,None
+VABB,20251217 1330Z,84.0,61.0,45.0,10.0,5.0,FU,,1.86,340.0,1.0,True,True,True,False,False,Moderate
+VABB,20251217 1400Z,84.0,61.0,45.0,360.0,5.0,FU,,1.86,350.0,0.0,True,True,True,False,False,Moderate
+VABB,20251217 1430Z,84.0,59.0,43.0,360.0,5.0,FU,,1.86,0.0,0.0,False,True,True,False,False,None
+VABB,20251217 1500Z,82.0,61.0,48.0,360.0,3.0,FU,,1.86,0.0,2.0,False,True,True,False,False,None
+VABB,20251217 1530Z,82.0,63.0,51.0,10.0,4.0,FU,,1.86,350.0,1.0,True,True,True,False,False,Moderate
+VABB,20251217 1600Z,82.0,63.0,51.0,360.0,4.0,FU,,1.86,350.0,0.0,True,True,True,False,False,Moderate
+VABB,20251217 1630Z,81.0,63.0,54.0,0.0,0.0,FU,,1.55,360.0,4.0,True,True,True,False,False,Moderate
+VABB,20251217 1700Z,82.0,61.0,48.0,150.0,4.0,FU,,1.55,150.0,4.0,True,True,True,False,False,Moderate
+VABB,20251217 1730Z,81.0,63.0,54.0,120.0,7.0,FU,,1.55,30.0,3.0,False,True,True,False,False,None
+VABB,20251217 1800Z,81.0,61.0,51.0,120.0,5.0,FU,,1.55,0.0,2.0,False,True,True,False,False,None
+VABB,20251217 1830Z,81.0,61.0,51.0,60.0,5.0,FU,,1.55,60.0,0.0,True,True,True,False,False,Moderate
+VABB,20251217 1900Z,81.0,59.0,48.0,80.0,3.0,FU,,1.55,20.0,2.0,False,True,True,False,False,None
+VABB,20251217 1930Z,79.0,59.0,51.0,0.0,0.0,FU,,1.55,80.0,3.0,True,True,True,False,False,Moderate
+VABB,20251217 2000Z,79.0,59.0,51.0,0.0,0.0,FU,,1.55,0.0,0.0,False,True,True,False,False,None
+VABB,20251217 2030Z,79.0,59.0,51.0,110.0,3.0,FU,,1.55,110.0,3.0,True,True,True,False,False,Moderate
+VABB,20251217 2100Z,79.0,59.0,51.0,0.0,0.0,FU,,1.55,110.0,3.0,True,True,True,False,False,Moderate
+VABB,20251217 2130Z,77.0,59.0,54.0,0.0,0.0,FU,,1.55,0.0,0.0,False,True,True,False,False,None
+VABB,20251217 2200Z,75.0,61.0,61.0,0.0,0.0,FU,,1.55,0.0,0.0,False,True,True,False,False,None
+VABB,20251217 2230Z,73.0,59.0,61.0,0.0,0.0,FU,,1.55,0.0,0.0,False,True,True,False,False,None
+VABB,20251217 2300Z,75.0,57.0,54.0,170.0,5.0,FU,,1.55,170.0,5.0,True,True,True,False,False,Moderate
+VABB,20251217 2330Z,75.0,57.0,54.0,150.0,3.0,FU,,1.55,20.0,2.0,False,True,True,False,False,None
+VABB,20251218 0000Z,75.0,55.0,50.0,140.0,4.0,FU,,1.55,10.0,1.0,False,True,True,False,False,None
+VABB,20251218 0030Z,75.0,55.0,50.0,130.0,4.0,FU,,1.55,10.0,0.0,False,True,True,False,False,None
+VABB,20251218 0100Z,73.0,54.0,50.0,100.0,3.0,FU,,1.55,30.0,1.0,False,True,True,False,False,None
+VABB,20251218 0130Z,75.0,54.0,47.0,120.0,4.0,FU,,1.55,20.0,1.0,False,True,True,False,False,None
+VABB,20251218 0200Z,75.0,54.0,47.0,120.0,4.0,FU,,1.55,0.0,0.0,False,True,True,False,False,None
+VABB,20251218 0230Z,75.0,54.0,47.0,110.0,5.0,FU,,1.3,10.0,1.0,False,True,True,False,False,None
+VABB,20251218 0300Z,77.0,55.0,47.0,120.0,6.0,FU,,1.55,10.0,1.0,False,True,True,False,False,None
+VABB,20251218 0330Z,79.0,55.0,45.0,130.0,8.0,FU,,1.55,10.0,2.0,False,True,True,False,False,None
+VABB,20251218 0400Z,81.0,54.0,39.0,130.0,7.0,FU,,1.55,0.0,1.0,False,True,True,False,False,None
+VABB,20251218 0430Z,82.0,54.0,37.0,130.0,10.0,FU,,1.55,0.0,3.0,False,True,True,False,False,None
+VABB,20251218 0500Z,84.0,54.0,35.0,140.0,8.0,FU FU,,1.55,10.0,2.0,False,True,True,False,False,None
+VABB,20251218 0530Z,86.0,54.0,33.0,130.0,8.0,FU,,1.86,10.0,0.0,False,True,True,False,False,None
+VABB,20251218 0600Z,88.0,52.0,29.0,120.0,7.0,FU,,1.86,10.0,1.0,False,True,True,False,False,None
+VABB,20251218 0630Z,90.0,54.0,30.0,110.0,6.0,FU,,1.86,10.0,1.0,False,True,True,False,False,None
+VIDP,20251215 1200Z,66.0,52.0,60.0,,2.0,HZ,,0.87,,,False,True,True,False,False,None
+VIDP,20251215 1230Z,64.0,52.0,64.0,,2.0,HZ HZ,,0.87,,0.0,False,True,True,False,False,None
+VIDP,20251215 1300Z,63.0,52.0,68.0,,2.0,HZ,,0.99,,0.0,False,True,True,False,False,None
+VIDP,20251215 1330Z,61.0,52.0,72.0,,2.0,HZ,,0.99,,0.0,False,True,True,False,False,None
+VIDP,20251215 1400Z,61.0,52.0,72.0,,2.0,HZ,,0.99,,0.0,False,True,True,False,False,None
+VIDP,20251215 1430Z,61.0,54.0,77.0,230.0,3.0,BR,,0.99,,1.0,False,True,True,False,False,None
+VIDP,20251215 1500Z,61.0,54.0,77.0,240.0,4.0,BR,,0.99,10.0,1.0,False,True,True,False,False,None
+VIDP,20251215 1530Z,59.0,54.0,82.0,250.0,4.0,BR,,0.99,10.0,0.0,False,True,True,True,True,Light
+VIDP,20251215 1600Z,57.0,54.0,88.0,240.0,4.0,BR,,0.99,10.0,0.0,False,True,True,True,True,Light
+VIDP,20251215 1630Z,57.0,54.0,88.0,250.0,3.0,BR,,0.99,10.0,1.0,False,True,True,True,True,Light
+VIDP,20251215 1700Z,57.0,54.0,88.0,260.0,2.0,BR,,0.99,10.0,1.0,False,True,True,True,True,Light
+VIDP,20251215 1730Z,55.0,52.0,88.0,240.0,2.0,BR,,0.99,20.0,0.0,False,True,True,True,True,Light
+VIDP,20251215 1800Z,55.0,52.0,88.0,230.0,2.0,BR,,0.99,10.0,0.0,False,True,True,True,True,Light
+VIDP,20251215 1830Z,55.0,52.0,88.0,240.0,2.0,BR BR,,0.99,10.0,0.0,False,True,True,True,True,Light
+VIDP,20251215 1900Z,55.0,52.0,88.0,0.0,0.0,BR,,0.93,240.0,2.0,True,True,True,True,True,Moderate
+VIDP,20251215 1930Z,55.0,52.0,88.0,250.0,2.0,BR,,0.93,250.0,2.0,True,True,True,True,True,Moderate
+VIDP,20251215 2000Z,54.0,50.0,88.0,270.0,2.0,BR,,0.93,20.0,0.0,False,True,True,True,True,Light
+VIDP,20251215 2030Z,54.0,50.0,88.0,250.0,2.0,BR,,0.93,20.0,0.0,False,True,True,True,True,Light
+VIDP,20251215 2100Z,54.0,50.0,88.0,220.0,2.0,BR,,0.93,30.0,0.0,False,True,True,True,True,Light
+VIDP,20251215 2130Z,54.0,50.0,88.0,250.0,2.0,BR,,0.81,30.0,0.0,False,True,True,True,True,Light
+VIDP,20251215 2200Z,52.0,48.0,87.0,240.0,3.0,BR,,0.81,10.0,1.0,False,True,True,True,True,Light
+VIDP,20251215 2230Z,52.0,48.0,87.0,250.0,4.0,BR,,0.81,10.0,1.0,False,True,True,True,True,Light
+VIDP,20251215 2300Z,52.0,48.0,87.0,250.0,5.0,BR,,0.81,0.0,1.0,False,True,True,True,True,Light
+VIDP,20251215 2330Z,50.0,48.0,93.0,250.0,4.0,BR,,0.75,0.0,1.0,False,True,True,True,True,Light
+VIDP,20251216 0000Z,50.0,48.0,93.0,250.0,5.0,BR,,0.75,0.0,1.0,False,True,True,True,True,Light
+VIDP,20251216 0030Z,48.0,46.0,93.0,260.0,4.0,BR,,0.75,10.0,1.0,False,True,True,True,True,Light
+VIDP,20251216 0100Z,48.0,46.0,93.0,250.0,5.0,BR,,0.75,10.0,1.0,False,True,True,True,True,Light
+VIDP,20251216 0130Z,48.0,46.0,93.0,250.0,5.0,BR MIFG,,0.62,0.0,0.0,False,True,True,True,True,Light
+VIDP,20251216 0200Z,48.0,45.0,87.0,260.0,6.0,MIFG MIFG,,0.5,10.0,1.0,False,True,True,True,True,Light
+VIDP,20251216 0230Z,50.0,48.0,93.0,250.0,5.0,MIFG,,0.37,10.0,1.0,False,True,True,True,True,Light
+VIDP,20251216 0300Z,52.0,50.0,94.0,260.0,5.0,MIFG,,0.37,10.0,0.0,False,True,True,True,True,Light
+VIDP,20251216 0330Z,54.0,52.0,94.0,260.0,6.0,MIFG,,0.43,0.0,1.0,False,True,True,True,True,Light
+VIDP,20251216 0400Z,55.0,52.0,88.0,260.0,6.0,MIFG MIFG,,0.43,0.0,0.0,False,True,True,True,True,Light
+VIDP,20251216 0430Z,57.0,54.0,88.0,260.0,6.0,MIFG,,0.5,0.0,0.0,False,True,True,True,True,Light
+VIDP,20251216 0500Z,61.0,52.0,72.0,290.0,6.0,HZ,,0.62,30.0,0.0,False,True,True,False,False,None
+VIDP,20251216 0530Z,64.0,50.0,59.0,290.0,5.0,HZ,,0.75,0.0,1.0,False,True,True,False,False,None
+VIDP,20251216 0600Z,68.0,48.0,49.0,280.0,6.0,HZ HZ,,0.81,10.0,1.0,False,True,True,False,False,None
+VIDP,20251216 0630Z,70.0,46.0,43.0,280.0,8.0,HZ,,0.93,0.0,2.0,False,True,True,False,False,None
+VIDP,20251216 0700Z,72.0,46.0,41.0,270.0,9.0,HZ,,1.06,10.0,1.0,False,True,True,False,False,None
+VIDP,20251216 0730Z,72.0,46.0,41.0,280.0,9.0,HZ,,1.12,10.0,0.0,False,True,True,False,False,None
+VIDP,20251216 0800Z,72.0,46.0,41.0,290.0,11.0,HZ,,1.37,10.0,2.0,False,True,True,False,False,None
+VIDP,20251216 0830Z,73.0,46.0,38.0,270.0,10.0,HZ,,1.55,20.0,1.0,False,True,True,False,False,None
+VIDP,20251216 0900Z,73.0,46.0,38.0,270.0,10.0,HZ HZ,,1.74,0.0,0.0,False,True,True,False,False,None
+VIDP,20251216 0930Z,73.0,46.0,38.0,260.0,10.0,HZ,,1.86,10.0,0.0,False,True,True,False,False,None
+VIDP,20251216 1000Z,73.0,46.0,38.0,260.0,8.0,HZ,,1.86,0.0,2.0,False,True,True,False,False,None
+VIDP,20251216 1030Z,73.0,46.0,38.0,250.0,8.0,HZ,,2.17,10.0,0.0,False,False,True,False,False,None
+VIDP,20251216 1100Z,72.0,48.0,43.0,260.0,7.0,HZ,,2.17,10.0,1.0,False,False,True,False,False,None
+VIDP,20251216 1130Z,70.0,48.0,46.0,250.0,5.0,HZ,,2.17,10.0,2.0,False,False,True,False,False,None
+VIDP,20251216 1200Z,66.0,50.0,56.0,260.0,5.0,HZ HZ,FEW100,1.99,10.0,0.0,False,True,True,False,False,None
+VIDP,20251216 1230Z,66.0,50.0,56.0,250.0,4.0,HZ,,1.86,10.0,1.0,False,True,True,False,False,None
+VIDP,20251216 1300Z,64.0,50.0,59.0,260.0,4.0,HZ,,1.86,10.0,0.0,False,True,True,False,False,None
+VIDP,20251216 1330Z,63.0,50.0,63.0,260.0,4.0,HZ,,1.86,0.0,0.0,False,True,True,False,False,None
+VIDP,20251216 1400Z,61.0,50.0,68.0,250.0,4.0,HZ,,1.86,10.0,0.0,False,True,True,False,False,None
+VIDP,20251216 1430Z,61.0,50.0,68.0,260.0,4.0,HZ,,1.86,10.0,0.0,False,True,True,False,False,None
+VIDP,20251216 1500Z,61.0,50.0,68.0,270.0,3.0,HZ,,1.86,10.0,1.0,False,True,True,False,False,None
+VIDP,20251216 1530Z,59.0,50.0,72.0,260.0,3.0,HZ,,1.74,10.0,0.0,False,True,True,False,False,None
+VIDP,20251216 1600Z,59.0,48.0,67.0,260.0,3.0,HZ,,1.74,0.0,0.0,False,True,True,False,False,None
+VIDP,20251216 1630Z,59.0,50.0,72.0,260.0,3.0,HZ,,1.74,0.0,0.0,False,True,True,False,False,None
+VIDP,20251216 1700Z,57.0,50.0,77.0,,2.0,HZ,,1.55,,1.0,False,True,True,False,False,None
+VIDP,20251216 1800Z,57.0,50.0,77.0,270.0,3.0,HZ,,1.55,,1.0,False,True,True,False,False,None
+VIDP,20251216 1830Z,55.0,50.0,82.0,250.0,3.0,BR,,1.55,20.0,0.0,False,True,True,True,True,Light
+VIDP,20251216 1900Z,55.0,50.0,82.0,,2.0,BR,,1.55,,1.0,False,True,True,True,True,Light
+VIDP,20251216 1930Z,54.0,48.0,82.0,,2.0,BR,,1.43,,0.0,False,True,True,True,True,Light
+VIDP,20251216 2000Z,54.0,48.0,82.0,250.0,3.0,BR,,1.43,,1.0,False,True,True,True,True,Light
+VIDP,20251216 2030Z,54.0,48.0,82.0,,2.0,BR,,1.3,,1.0,False,True,True,True,True,Light
+VIDP,20251216 2100Z,54.0,48.0,82.0,,2.0,BR,,1.18,,0.0,False,True,True,True,True,Light
+VIDP,20251216 2130Z,52.0,48.0,87.0,,2.0,BR,,1.12,,0.0,False,True,True,True,True,Light
+VIDP,20251216 2200Z,52.0,46.0,82.0,250.0,3.0,BR,,1.12,,1.0,False,True,True,True,True,Light
+VIDP,20251216 2230Z,52.0,46.0,82.0,250.0,3.0,BR,,1.12,0.0,0.0,False,True,True,True,True,Light
+VIDP,20251216 2300Z,52.0,46.0,82.0,250.0,3.0,BR BR,,0.99,0.0,0.0,False,True,True,True,True,Light
+VIDP,20251216 2330Z,50.0,46.0,87.0,250.0,4.0,BR,,0.93,0.0,1.0,False,True,True,True,True,Light
+VIDP,20251217 0000Z,50.0,46.0,87.0,260.0,4.0,BR,,0.87,10.0,0.0,False,True,True,True,True,Light
+VIDP,20251217 0030Z,50.0,46.0,87.0,240.0,3.0,BR,,0.81,20.0,1.0,False,True,True,True,True,Light
+VIDP,20251217 0100Z,50.0,46.0,87.0,250.0,4.0,BR,,0.75,10.0,1.0,False,True,True,True,True,Light
+VIDP,20251217 0130Z,50.0,46.0,87.0,260.0,4.0,BR,,0.68,10.0,0.0,False,True,True,True,True,Light
+VIDP,20251217 0200Z,48.0,46.0,93.0,250.0,4.0,MIFG MIFG,,0.56,10.0,0.0,False,True,True,True,True,Light
+VIDP,20251217 0230Z,50.0,48.0,93.0,270.0,5.0,MIFG,,0.5,20.0,1.0,False,True,True,True,True,Light
+VIDP,20251217 0300Z,54.0,50.0,88.0,260.0,6.0,BR,,0.62,10.0,1.0,False,True,True,True,True,Light
+VIDP,20251217 0330Z,55.0,50.0,82.0,260.0,7.0,BR,,0.62,0.0,1.0,False,True,True,True,True,Light
+VIDP,20251217 0400Z,57.0,52.0,82.0,260.0,6.0,BR,,0.68,0.0,1.0,False,True,True,True,True,Light
+VIDP,20251217 0430Z,59.0,52.0,77.0,270.0,6.0,BR,,0.75,10.0,0.0,False,True,True,False,False,None
+VIDP,20251217 0500Z,61.0,52.0,72.0,270.0,5.0,HZ,,0.75,0.0,1.0,False,True,True,False,False,None
+VIDP,20251217 0530Z,63.0,52.0,68.0,240.0,5.0,HZ HZ,,0.81,30.0,0.0,False,True,True,False,False,None
+VIDP,20251217 0630Z,68.0,52.0,56.0,270.0,7.0,HZ,,1.12,30.0,2.0,False,True,True,False,False,None
+VIDP,20251217 0700Z,68.0,52.0,56.0,260.0,7.0,HZ,,1.12,10.0,0.0,False,True,True,False,False,None
+VIDP,20251217 0730Z,70.0,52.0,53.0,250.0,8.0,HZ,,1.3,10.0,1.0,False,True,True,False,False,None
+VIDP,20251217 0800Z,72.0,50.0,46.0,260.0,8.0,HZ,,1.55,10.0,0.0,False,True,True,False,False,None
+VIDP,20251217 0830Z,73.0,48.0,41.0,270.0,8.0,HZ,,1.55,10.0,0.0,False,True,True,False,False,None
+VIDP,20251217 0900Z,73.0,48.0,41.0,270.0,9.0,HZ,,1.68,0.0,1.0,False,True,True,False,False,None
+VIDP,20251217 0930Z,73.0,48.0,41.0,280.0,8.0,HZ,,1.68,10.0,1.0,False,True,True,False,False,None
+VIDP,20251217 1000Z,73.0,50.0,44.0,260.0,8.0,HZ,,1.68,20.0,0.0,False,True,True,False,False,None
+VIDP,20251217 1030Z,73.0,50.0,44.0,260.0,7.0,HZ,,1.68,0.0,1.0,False,True,True,False,False,None
+VIDP,20251217 1100Z,72.0,50.0,46.0,250.0,8.0,HZ,,1.68,10.0,1.0,False,True,True,False,False,None
+VIDP,20251217 1130Z,70.0,52.0,53.0,240.0,6.0,HZ,,1.55,10.0,2.0,False,True,True,False,False,None
+VIDP,20251217 1200Z,68.0,52.0,56.0,240.0,4.0,HZ,,1.55,0.0,2.0,False,True,True,False,False,None
+VIDP,20251217 1230Z,66.0,52.0,60.0,230.0,4.0,HZ,,1.55,10.0,0.0,False,True,True,False,False,None
+VIDP,20251217 1300Z,64.0,52.0,64.0,240.0,4.0,HZ,,1.55,10.0,0.0,False,True,True,False,False,None
+VIDP,20251217 1330Z,63.0,52.0,68.0,240.0,3.0,HZ,,1.55,0.0,1.0,False,True,True,False,False,None
+VIDP,20251217 1400Z,63.0,52.0,68.0,240.0,4.0,HZ,,1.55,0.0,1.0,False,True,True,False,False,None
+VIDP,20251217 1430Z,61.0,52.0,72.0,240.0,4.0,HZ,,1.55,0.0,0.0,False,True,True,False,False,None
+VIDP,20251217 1500Z,61.0,52.0,72.0,0.0,0.0,HZ,,1.55,240.0,4.0,True,True,True,False,False,Moderate
+VIDP,20251217 1530Z,61.0,52.0,72.0,0.0,0.0,HZ,,1.55,0.0,0.0,False,True,True,False,False,None
+VIDP,20251217 1600Z,61.0,52.0,72.0,0.0,0.0,HZ,,1.55,0.0,0.0,False,True,True,False,False,None
+VIDP,20251217 1630Z,59.0,52.0,77.0,0.0,0.0,BR,,1.55,0.0,0.0,False,True,True,False,False,None
+VIDP,20251217 1700Z,55.0,52.0,88.0,0.0,0.0,BR,,1.43,0.0,0.0,False,True,True,True,True,Light
+VIDP,20251217 1730Z,55.0,52.0,88.0,0.0,0.0,BR,,1.43,0.0,0.0,False,True,True,True,True,Light
+VIDP,20251217 1800Z,55.0,52.0,88.0,110.0,3.0,BR,,1.3,110.0,3.0,True,True,True,True,True,Moderate
+VIDP,20251217 1830Z,54.0,50.0,88.0,110.0,3.0,BR BR,,1.06,0.0,0.0,False,True,True,True,True,Light
+VIDP,20251217 1900Z,54.0,52.0,94.0,120.0,4.0,BR,,0.81,10.0,1.0,False,True,True,True,True,Light
+VIDP,20251217 1930Z,54.0,52.0,94.0,100.0,3.0,BR MIFG,,0.62,20.0,1.0,False,True,True,True,True,Light
+VIDP,20251217 2000Z,54.0,52.0,94.0,,2.0,MIFG MIFG,,0.5,,1.0,False,True,True,True,True,Light
+VIDP,20251217 2030Z,52.0,50.0,94.0,0.0,0.0,FG FG,,0.31,,2.0,False,True,True,True,True,Light
+VIDP,20251217 2100Z,50.0,50.0,100.0,0.0,0.0,FG FG,,0.31,0.0,0.0,False,True,True,True,True,Light
+VIDP,20251217 2130Z,50.0,50.0,100.0,0.0,0.0,FG FG,,0.31,0.0,0.0,False,True,True,True,True,Light
+VIDP,20251217 2200Z,50.0,50.0,100.0,0.0,0.0,FG FG,,0.31,0.0,0.0,False,True,True,True,True,Light
+VIDP,20251217 2230Z,50.0,50.0,100.0,0.0,0.0,FG,,0.22,0.0,0.0,False,True,True,True,True,Light
+VIDP,20251217 2300Z,50.0,50.0,100.0,0.0,0.0,FG,,0.22,0.0,0.0,False,True,True,True,True,Light
+VIDP,20251217 2330Z,50.0,50.0,100.0,0.0,0.0,FG,,0.22,0.0,0.0,False,True,True,True,True,Light
+VIDP,20251218 0000Z,50.0,50.0,100.0,0.0,0.0,FG FG,,0.12,0.0,0.0,False,True,True,True,True,Light
+VIDP,20251218 0030Z,50.0,50.0,100.0,0.0,0.0,FG,,0.09,0.0,0.0,False,True,True,True,True,Light
+VIDP,20251218 0100Z,50.0,50.0,100.0,0.0,0.0,FG,,0.06,0.0,0.0,False,True,True,True,True,Light
+VIDP,20251218 0130Z,52.0,52.0,100.0,0.0,0.0,FG FG,,0.06,0.0,0.0,False,True,True,True,True,Light
+VIDP,20251218 0200Z,54.0,54.0,100.0,0.0,0.0,FG FG,,0.12,0.0,0.0,False,True,True,True,True,Light
+VIDP,20251218 0230Z,54.0,54.0,100.0,0.0,0.0,FG FG,,0.12,0.0,0.0,False,True,True,True,True,Light
+VIDP,20251218 0300Z,55.0,54.0,94.0,,2.0,FG,,0.09,,2.0,False,True,True,True,True,Light
+VIDP,20251218 0330Z,55.0,55.0,100.0,,2.0,FG FG,,0.12,,0.0,False,True,True,True,True,Light
+VIDP,20251218 0400Z,55.0,54.0,94.0,,2.0,FG,,0.22,,0.0,False,True,True,True,True,Light
+VIDP,20251218 0430Z,55.0,54.0,94.0,,2.0,FG,,0.22,,0.0,False,True,True,True,True,Light
+VIDP,20251218 0500Z,57.0,55.0,94.0,,2.0,FG MIFG,,0.28,,0.0,False,True,True,True,True,Light
+VIDP,20251218 0530Z,59.0,55.0,88.0,,2.0,FG MIFG,FEW100,0.31,,0.0,False,True,True,True,True,Light
+VIDP,20251218 0600Z,59.0,55.0,88.0,240.0,3.0,FG MIFG,FEW100,0.31,,1.0,False,True,True,True,True,Light
+VIDP,20251218 0630Z,61.0,57.0,88.0,250.0,4.0,MIFG,FEW100,0.37,10.0,1.0,False,True,True,True,True,Light
+VOHS,20251215 1130Z,77.0,46.0,34.0,100.0,6.0,HZ,,3.11,,,False,False,True,False,False,None
+VOHS,20251215 1200Z,73.0,46.0,38.0,80.0,5.0,HZ,,3.11,20.0,1.0,False,False,True,False,False,None
+VOHS,20251215 1230Z,70.0,48.0,46.0,80.0,5.0,HZ,,3.11,0.0,0.0,False,False,True,False,False,None
+VOHS,20251215 1300Z,68.0,50.0,53.0,80.0,5.0,HZ,,3.11,0.0,0.0,False,False,True,False,False,None
+VOHS,20251215 1330Z,68.0,50.0,53.0,100.0,5.0,HZ,,3.11,20.0,0.0,False,False,True,False,False,None
+VOHS,20251215 1400Z,68.0,52.0,56.0,110.0,5.0,HZ,,3.11,10.0,0.0,False,False,True,False,False,None
+VOHS,20251215 1430Z,66.0,54.0,64.0,120.0,5.0,HZ,,3.11,10.0,0.0,False,False,True,False,False,None
+VOHS,20251215 1500Z,66.0,54.0,64.0,120.0,5.0,HZ,,3.11,0.0,0.0,False,False,True,False,False,None
+VOHS,20251215 1530Z,64.0,54.0,68.0,120.0,5.0,HZ,,3.11,0.0,0.0,False,False,True,False,False,None
+VOHS,20251215 1600Z,64.0,54.0,68.0,140.0,4.0,HZ,,3.11,20.0,1.0,False,False,True,False,False,None
+VOHS,20251215 1630Z,64.0,54.0,68.0,130.0,4.0,HZ BR,,3.11,10.0,0.0,False,False,True,False,False,None
+VOHS,20251215 1700Z,61.0,54.0,77.0,80.0,4.0,HZ,,2.48,50.0,0.0,True,False,True,False,False,None
+VOHS,20251215 1730Z,61.0,55.0,82.0,80.0,5.0,BR,,2.48,0.0,1.0,False,False,True,True,True,Light
+VOHS,20251215 1800Z,61.0,55.0,82.0,70.0,6.0,BR,,2.48,10.0,1.0,False,False,True,True,True,Light
+VOHS,20251215 1830Z,61.0,55.0,82.0,80.0,6.0,BR,,2.48,10.0,0.0,False,False,True,True,True,Light
+VOHS,20251215 1900Z,61.0,55.0,82.0,90.0,5.0,BR,,2.48,10.0,1.0,False,False,True,True,True,Light
+VOHS,20251215 1930Z,61.0,55.0,82.0,70.0,5.0,BR,,2.48,20.0,0.0,False,False,True,True,True,Light
+VOHS,20251215 2000Z,61.0,55.0,82.0,80.0,4.0,BR,,2.48,10.0,1.0,False,False,True,True,True,Light
+VOHS,20251215 2030Z,59.0,55.0,88.0,70.0,4.0,BR,,2.48,10.0,0.0,False,False,True,True,True,Light
+VOHS,20251215 2100Z,59.0,54.0,82.0,90.0,4.0,BR,,2.48,20.0,0.0,False,False,True,True,True,Light
+VOHS,20251215 2130Z,59.0,54.0,82.0,90.0,4.0,BR,,2.48,0.0,0.0,False,False,True,True,True,Light
+VOHS,20251215 2200Z,59.0,54.0,82.0,90.0,4.0,BR,,2.48,0.0,0.0,False,False,True,True,True,Light
+VOHS,20251215 2230Z,61.0,54.0,77.0,90.0,4.0,BR,,2.48,0.0,0.0,False,False,True,False,False,None
+VOHS,20251215 2300Z,61.0,54.0,77.0,90.0,4.0,BR,,2.48,0.0,0.0,False,False,True,False,False,None
+VOHS,20251215 2330Z,61.0,54.0,77.0,40.0,5.0,BR,,1.86,50.0,1.0,True,True,True,False,False,Moderate
+VOHS,20251216 0000Z,59.0,54.0,82.0,60.0,5.0,BR,,1.86,20.0,0.0,False,True,True,True,True,Light
+VOHS,20251216 0030Z,59.0,54.0,82.0,60.0,5.0,BR,,1.86,0.0,0.0,False,True,True,True,True,Light
+VOHS,20251216 0100Z,57.0,54.0,88.0,100.0,4.0,BR,,1.86,40.0,1.0,True,True,True,True,True,Moderate
+VOHS,20251216 0130Z,57.0,54.0,88.0,130.0,4.0,BR,,1.86,30.0,0.0,False,True,True,True,True,Light
+VOHS,20251216 0200Z,55.0,54.0,94.0,100.0,4.0,BR,,1.86,30.0,0.0,False,True,True,True,True,Light
+VOHS,20251216 0230Z,64.0,54.0,68.0,100.0,7.0,BR,,1.86,0.0,3.0,False,True,True,False,False,None
+VOHS,20251216 0300Z,64.0,54.0,68.0,100.0,7.0,BR,,1.86,0.0,0.0,False,True,True,False,False,None
+VOHS,20251216 0330Z,66.0,55.0,68.0,100.0,6.0,BR HZ,,1.86,0.0,1.0,False,True,True,False,False,None
+VOHS,20251216 0400Z,70.0,55.0,60.0,100.0,9.0,HZ,,3.11,0.0,3.0,False,False,True,False,False,None
+VOHS,20251216 0430Z,72.0,55.0,57.0,100.0,10.0,HZ,,3.11,0.0,1.0,False,False,True,False,False,None
+VOHS,20251216 0500Z,73.0,55.0,53.0,80.0,12.0,HZ,,3.11,20.0,2.0,False,False,True,False,False,None
+VOHS,20251216 0530Z,73.0,54.0,50.0,90.0,9.0,HZ,,3.11,10.0,3.0,False,False,True,False,False,None
+VOHS,20251216 0600Z,75.0,54.0,47.0,100.0,9.0,HZ,,3.11,10.0,0.0,False,False,True,False,False,None
+VOHS,20251216 0630Z,75.0,54.0,47.0,100.0,9.0,HZ,,3.11,0.0,0.0,False,False,True,False,False,None
+VOHS,20251216 0700Z,77.0,52.0,41.0,100.0,6.0,HZ,,3.11,0.0,3.0,False,False,True,False,False,None
+VOHS,20251216 0730Z,79.0,52.0,39.0,140.0,5.0,HZ,,3.11,40.0,1.0,True,False,True,False,False,None
+VOHS,20251216 0800Z,79.0,50.0,37.0,70.0,6.0,HZ,,3.11,70.0,1.0,True,False,True,False,False,None
+VOHS,20251216 0830Z,79.0,52.0,39.0,90.0,8.0,HZ,,3.11,20.0,2.0,False,False,True,False,False,None
+VOHS,20251216 0900Z,81.0,48.0,32.0,90.0,9.0,HZ,,3.11,0.0,1.0,False,False,True,False,False,None
+VOHS,20251216 0930Z,81.0,48.0,32.0,90.0,9.0,HZ,,3.11,0.0,0.0,False,False,True,False,False,None
+VOHS,20251216 1000Z,81.0,48.0,32.0,70.0,6.0,HZ,,3.11,20.0,3.0,False,False,True,False,False,None
+VOHS,20251216 1030Z,79.0,48.0,34.0,80.0,7.0,HZ,,3.11,10.0,1.0,False,False,True,False,False,None
+VOHS,20251216 1100Z,79.0,48.0,34.0,80.0,7.0,HZ,,3.11,0.0,0.0,False,False,True,False,False,None
+VOHS,20251216 1130Z,79.0,46.0,32.0,90.0,6.0,HZ,,3.11,10.0,1.0,False,False,True,False,False,None
+VOHS,20251216 1230Z,72.0,50.0,46.0,100.0,5.0,HZ,,3.11,10.0,1.0,False,False,True,False,False,None
+VOHS,20251216 1300Z,70.0,50.0,49.0,90.0,5.0,HZ,,3.11,10.0,0.0,False,False,True,False,False,None
+VOHS,20251216 1330Z,70.0,50.0,49.0,90.0,5.0,HZ,,3.11,0.0,0.0,False,False,True,False,False,None
+VOHS,20251216 1400Z,68.0,54.0,60.0,110.0,5.0,HZ,,3.11,20.0,0.0,False,False,True,False,False,None
+VOHS,20251216 1430Z,68.0,55.0,64.0,110.0,6.0,HZ,,3.11,0.0,1.0,False,False,True,False,False,None
+VOHS,20251216 1500Z,66.0,57.0,73.0,100.0,6.0,HZ,,3.11,10.0,0.0,False,False,True,False,False,None
+VOHS,20251216 1530Z,66.0,57.0,73.0,110.0,6.0,HZ,,3.11,10.0,0.0,False,False,True,False,False,None
+VOHS,20251216 1600Z,64.0,57.0,77.0,100.0,6.0,HZ,,3.11,10.0,0.0,False,False,True,False,False,None
+VOHS,20251216 1630Z,64.0,59.0,83.0,100.0,5.0,HZ,,3.11,0.0,1.0,False,False,True,True,True,Light
+VOHS,20251216 1700Z,64.0,59.0,83.0,110.0,5.0,HZ,,3.11,10.0,0.0,False,False,True,True,True,Light
+VOHS,20251216 1730Z,63.0,59.0,88.0,110.0,5.0,HZ,,3.11,0.0,0.0,False,False,True,True,True,Light
+VOHS,20251216 1800Z,63.0,57.0,82.0,100.0,5.0,HZ,,3.11,10.0,0.0,False,False,True,True,True,Light
+VOHS,20251216 1830Z,61.0,57.0,88.0,100.0,5.0,HZ,,3.11,0.0,0.0,False,False,True,True,True,Light
+VOHS,20251216 1900Z,63.0,59.0,88.0,100.0,4.0,BR,,1.86,0.0,1.0,False,True,True,True,True,Light
+VOHS,20251216 1930Z,63.0,59.0,88.0,100.0,5.0,BR,,1.86,0.0,1.0,False,True,True,True,True,Light
+VOHS,20251216 2000Z,61.0,59.0,94.0,100.0,5.0,BR,,1.86,0.0,0.0,False,True,True,True,True,Light
+VOHS,20251216 2030Z,61.0,59.0,94.0,100.0,5.0,BR,,1.86,0.0,0.0,False,True,True,True,True,Light
+VOHS,20251216 2100Z,63.0,57.0,82.0,100.0,5.0,BR,,1.86,0.0,0.0,False,True,True,True,True,Light
+VOHS,20251216 2130Z,59.0,57.0,94.0,100.0,4.0,BR,,1.86,0.0,1.0,False,True,True,True,True,Light
+VOHS,20251216 2200Z,59.0,57.0,94.0,100.0,3.0,BR,,1.86,0.0,1.0,False,True,True,True,True,Light
+VOHS,20251216 2230Z,57.0,55.0,94.0,,3.0,BR,,1.86,,0.0,False,True,True,True,True,Light
+VOHS,20251216 2300Z,57.0,55.0,94.0,,3.0,BR,,1.55,,0.0,False,True,True,True,True,Light
+VOHS,20251216 2330Z,57.0,55.0,94.0,80.0,5.0,BR,,1.55,,2.0,False,True,True,True,True,Light
+VOHS,20251217 0000Z,59.0,57.0,94.0,,4.0,BR,,1.55,,1.0,False,True,True,True,True,Light
+VOHS,20251217 0030Z,59.0,57.0,94.0,,4.0,BR,,1.24,,0.0,False,True,True,True,True,Light
+VOHS,20251217 0100Z,57.0,55.0,94.0,70.0,4.0,BR,,0.93,,0.0,False,True,True,True,True,Light
+VOHS,20251217 0130Z,57.0,55.0,94.0,,4.0,BR,,0.93,,0.0,False,True,True,True,True,Light
+VOHS,20251217 0200Z,57.0,55.0,94.0,,4.0,BR,,0.93,,0.0,False,True,True,True,True,Light
+VOHS,20251217 0230Z,64.0,57.0,77.0,,3.0,BR BR,,0.93,,1.0,False,True,True,False,False,None
+VOHS,20251217 0300Z,68.0,57.0,68.0,60.0,5.0,BR,,1.24,,2.0,False,True,True,False,False,None
+VOHS,20251217 0330Z,70.0,55.0,60.0,70.0,8.0,HZ HZ,,1.24,10.0,3.0,False,True,True,False,False,None
+VOHS,20251217 0400Z,72.0,55.0,57.0,80.0,6.0,HZ HZ,,1.86,10.0,2.0,False,True,True,False,False,None
+VOHS,20251217 0430Z,73.0,55.0,53.0,50.0,7.0,HZ,,2.48,30.0,1.0,False,False,True,False,False,None
+VOHS,20251217 0500Z,75.0,55.0,50.0,60.0,8.0,HZ,,2.48,10.0,1.0,False,False,True,False,False,None
+VOHS,20251217 0530Z,73.0,55.0,53.0,60.0,6.0,HZ,,2.48,0.0,2.0,False,False,True,False,False,None
+VOHS,20251217 0600Z,75.0,54.0,47.0,100.0,7.0,HZ,,2.48,40.0,1.0,True,False,True,False,False,None
+VOHS,20251217 0630Z,77.0,52.0,41.0,70.0,9.0,HZ,,2.48,30.0,2.0,False,False,True,False,False,None
+VOHS,20251217 0700Z,79.0,52.0,39.0,50.0,5.0,HZ,,2.48,20.0,4.0,False,False,True,False,False,None
+VOHS,20251217 0730Z,81.0,50.0,34.0,40.0,8.0,HZ,,2.48,10.0,3.0,False,False,True,False,False,None
+VOHS,20251217 0800Z,81.0,50.0,34.0,40.0,6.0,HZ,,2.48,0.0,2.0,False,False,True,False,False,None
+VOHS,20251217 0830Z,81.0,48.0,32.0,50.0,6.0,HZ,,2.48,10.0,0.0,False,False,True,False,False,None
+VOHS,20251217 0900Z,82.0,48.0,30.0,30.0,6.0,HZ,,2.48,20.0,0.0,False,False,True,False,False,None
+VOHS,20251217 0930Z,82.0,48.0,30.0,60.0,5.0,HZ,,2.48,30.0,1.0,False,False,True,False,False,None
+VOHS,20251217 1000Z,82.0,48.0,30.0,60.0,7.0,HZ,,2.48,0.0,2.0,False,False,True,False,False,None
+VOHS,20251217 1030Z,82.0,48.0,30.0,60.0,6.0,HZ,,2.48,0.0,1.0,False,False,True,False,False,None
+VOHS,20251217 1100Z,82.0,48.0,30.0,80.0,7.0,HZ,,2.48,20.0,1.0,False,False,True,False,False,None
+VOHS,20251217 1130Z,79.0,48.0,34.0,90.0,5.0,HZ,,2.48,10.0,2.0,False,False,True,False,False,None
+VOHS,20251217 1200Z,75.0,48.0,38.0,80.0,5.0,HZ,,2.48,10.0,0.0,False,False,True,False,False,None
+VOHS,20251217 1230Z,72.0,48.0,43.0,80.0,5.0,HZ,,2.48,0.0,0.0,False,False,True,False,False,None
+VOHS,20251217 1300Z,72.0,48.0,43.0,90.0,5.0,HZ,,2.48,10.0,0.0,False,False,True,False,False,None
+VOHS,20251217 1330Z,70.0,50.0,49.0,70.0,5.0,HZ,,2.48,20.0,0.0,False,False,True,False,False,None
+VOHS,20251217 1400Z,70.0,50.0,49.0,80.0,5.0,HZ,,2.48,10.0,0.0,False,False,True,False,False,None
+VOHS,20251217 1430Z,68.0,50.0,53.0,90.0,5.0,HZ,,2.48,10.0,0.0,False,False,True,False,False,None
+VOHS,20251217 1500Z,68.0,52.0,56.0,90.0,5.0,HZ,,2.48,0.0,0.0,False,False,True,False,False,None
+VOHS,20251217 1530Z,66.0,54.0,64.0,,4.0,HZ,,2.48,,1.0,False,False,True,False,False,None
+VOHS,20251217 1600Z,66.0,54.0,64.0,80.0,5.0,HZ,,2.48,,1.0,False,False,True,False,False,None
+VOHS,20251217 1630Z,66.0,54.0,64.0,90.0,5.0,HZ,,2.48,10.0,0.0,False,False,True,False,False,None
+VOHS,20251217 1700Z,66.0,52.0,60.0,,4.0,HZ,,2.48,,1.0,False,False,True,False,False,None
+VOHS,20251217 1730Z,63.0,52.0,68.0,,4.0,HZ,,2.48,,0.0,False,False,True,False,False,None
+VOHS,20251217 1800Z,63.0,54.0,72.0,,4.0,HZ,,2.48,,0.0,False,False,True,False,False,None
+VOHS,20251217 1830Z,63.0,54.0,72.0,80.0,7.0,HZ,,2.48,,3.0,False,False,True,False,False,None
+VOHS,20251217 1900Z,63.0,52.0,68.0,80.0,5.0,HZ,,2.48,0.0,2.0,False,False,True,False,False,None
+VOHS,20251217 1930Z,63.0,52.0,68.0,,4.0,HZ,,2.48,,1.0,False,False,True,False,False,None
+VOHS,20251217 2000Z,63.0,52.0,68.0,60.0,5.0,HZ,,2.48,,1.0,False,False,True,False,False,None
+VOHS,20251217 2030Z,63.0,52.0,68.0,60.0,6.0,HZ,,2.48,0.0,1.0,False,False,True,False,False,None
+VOHS,20251217 2100Z,63.0,52.0,68.0,60.0,6.0,HZ,,2.48,0.0,0.0,False,False,True,False,False,None
+VOHS,20251217 2130Z,61.0,50.0,68.0,60.0,5.0,HZ BR,,2.48,0.0,1.0,False,False,True,False,False,None
+VOHS,20251217 2200Z,61.0,52.0,72.0,40.0,3.0,BR BR,,1.86,20.0,2.0,False,True,True,False,False,None
+VOHS,20251217 2230Z,61.0,50.0,68.0,30.0,5.0,BR,,1.24,10.0,2.0,False,True,True,False,False,None
+VOHS,20251217 2300Z,61.0,52.0,72.0,20.0,4.0,BR,,1.24,10.0,1.0,False,True,True,False,False,None
+VOHS,20251217 2330Z,61.0,52.0,72.0,10.0,5.0,BR,,1.24,10.0,1.0,False,True,True,False,False,None
+VOHS,20251218 0000Z,59.0,52.0,77.0,360.0,5.0,BR BR,,1.24,350.0,0.0,True,True,True,False,False,Moderate
+VOHS,20251218 0030Z,59.0,54.0,82.0,10.0,5.0,BR,,1.24,350.0,0.0,True,True,True,True,True,Moderate
+VOHS,20251218 0100Z,59.0,54.0,82.0,20.0,4.0,BR BR,,1.12,10.0,1.0,False,True,True,True,True,Light
+VOHS,20251218 0130Z,59.0,52.0,77.0,30.0,5.0,BR,,0.93,10.0,1.0,False,True,True,False,False,None
+VOHS,20251218 0200Z,61.0,52.0,72.0,40.0,4.0,BR FG,,0.75,10.0,1.0,False,True,True,False,False,None
+VOHS,20251218 0230Z,64.0,52.0,64.0,20.0,7.0,BR,,0.93,20.0,3.0,False,True,True,False,False,None
+VOHS,20251218 0300Z,66.0,52.0,60.0,30.0,5.0,BR HZ,,1.12,10.0,2.0,False,True,True,False,False,None
+VOHS,20251218 0330Z,70.0,50.0,49.0,40.0,7.0,HZ,,1.86,10.0,2.0,False,True,True,False,False,None
+VOHS,20251218 0400Z,72.0,50.0,46.0,50.0,10.0,HZ,,1.86,10.0,3.0,False,True,True,False,False,None
+VOHS,20251218 0430Z,73.0,48.0,41.0,50.0,10.0,HZ,,2.48,0.0,0.0,False,False,True,False,False,None
+VOHS,20251218 0500Z,75.0,48.0,38.0,50.0,9.0,HZ,,2.48,0.0,1.0,False,False,True,False,False,None
+VOHS,20251218 0530Z,77.0,46.0,34.0,30.0,8.0,HZ,,3.11,20.0,1.0,False,False,True,False,False,None
+VOHS,20251218 0600Z,79.0,46.0,32.0,40.0,6.0,HZ,,3.11,10.0,2.0,False,False,True,False,False,None
+,,,,,,,,,,,,False,False,False,False,False,None
+,,,,,,,,,,,,False,False,False,False,False,None
