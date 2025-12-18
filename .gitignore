@@ -186,6 +186,11 @@ cython_debug/
 data/raw/
 data/processed/
 *.parquet
+!data/raw/*.csv
+!data/processed/*.csv
+!data/raw/**/*.csv
+!data/processed/**/*.csv
+
 
 # Model artifacts
 models/
