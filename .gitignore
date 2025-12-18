@@ -149,10 +149,14 @@ cython_debug/
 # Project-specific ignores
 
 # Raw and processed data (ignore everything except CSV files)
-data/raw/*
+data/raw/
 !data/raw/**/*.csv
-data/processed/*
+!data/raw/**/
+
+data/processed/
 !data/processed/**/*.csv
+!data/processed/**/
+
 *.parquet
 
 # Model artifacts
