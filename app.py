@@ -3,10 +3,14 @@ import pandas as pd
 import numpy as np
 import re
 import joblib
+import os
 
 app = Flask(__name__)
 
-model = joblib.load("model/random_forest_turbulence_model.joblib")
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+MODEL_PATH = os.path.join(BASE_DIR, "model", "random_forest_turbulence_model.joblib")
+
+model = joblib.load(MODEL_PATH)
 
 airport_map = {"VABB": 0, "VIDP": 1, "VOHS": 2}
 airport_data = {
